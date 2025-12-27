@@ -1,4 +1,4 @@
-name: 007-of-three Daily Docker Cycle (with IP Gate) Daily (04:40 AM IST)
+name: 006-of-three Daily Docker Cycle (with IP Gate) Daily (04:40 AM IST)
 on:
   schedule:
     # 23:10 UTC = 04:40 IST
